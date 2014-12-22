@@ -36,9 +36,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Mamillia A mirrour or looking-glasse for the ladies of Englande. Wherein is disciphered, howe gentle
+
+1. To the right honourable his very good
+Lorde and Maister, Lorde Darcie of the North,
+Robert Greene wisheth long life, prosperous successe,
+with all increase of honour and vertue.
+
+1. To the Gentlemen readers.
+
+1. Roger Portington Esquier, in commendation
+of the booke.
+
 #####Body#####
-Mamillia A mirrour or looking-glasse for the ladies of Englande. Wherein is disciphered, howe gentle
+
+1. Mamillia.
+
 **Types of content**
 
   * There are 26 **verse** lines!
